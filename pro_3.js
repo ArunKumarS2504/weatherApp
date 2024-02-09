@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
             suggestionsList.innerHTML = '';
             return;
         }
-        const suggestionUrl = `http://api.geonames.org/postalCodeSearchJSON?placename_startsWith=${inputVal}&maxRows=10&username=${username}&country=IN`;
+        const suggestionUrl = `https://secure.geonames.org/postalCodeSearchJSON?placename_startsWith=${inputVal}&maxRows=10&username=${username}&country=IN`;
 
         fetch(suggestionUrl)
             .then(response => response.json())
