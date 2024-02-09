@@ -1,0 +1,1050 @@
+
+
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+  
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+  height: 100%;
+  width: 100vw;
+  height:100vh ;
+  
+}
+.desktop-1-p2q {
+  padding-bottom: 4rem;
+  position: relative;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: #252222;
+
+   .auto-group-g55f-4Sy {
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0.7rem 0.5rem 5.3rem 0.5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    .auto-group-skvh-5Fb {
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 12.7rem 1.9rem 0rem;
+      width: calc(100% - 12.7rem);
+      height: 13.7rem;
+
+      .auto-group-hwyv-ipM {
+        width: 45.6rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+
+        .group-48-47X {
+          width: 6.7rem;
+          height: 4.8132rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .weatherme-Ne1 {
+          line-height: 1.5;
+          color: #ffffff;
+          width: 39.7rem;
+          position: absolute;
+          left: 5.9rem;
+          top: 2.4rem;
+          font-size: 6.9rem;
+          font-weight: 400;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 10.4rem;
+        }
+        .pm-Fho {
+          font-size: 1.9rem;
+          font-weight: 600;
+          color: #ffffff;
+          white-space: nowrap;
+          width: 8.5rem;
+          height: 2.9rem;
+          left: 35.5rem;
+          font-family: Poppins, 'Source Sans Pro';
+          position: absolute;
+          top: 10.8rem;
+          line-height: 1.5;
+        }
+      }
+      .auto-group-uxtb-xMK {
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 6.2rem 0rem 2.6rem 16.698rem;
+        height: 100%;
+        display: flex;
+
+        .auto-group-7q4y-H8h {
+          margin-right: 1.9978rem;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          border-bottom: solid 0.3rem #695d5d;
+          box-sizing: border-box;
+          padding: 0rem 4.402rem 0rem 3.602rem;
+          font-weight: 400;
+          line-height: 1.5;
+          flex-shrink: 0;
+          font-size: 3rem;
+          color: #ffffff;
+          display: flex;
+          align-items: baseline;
+          height: 100%;
+
+          .auto-group-7q4y-H8h-sub-0 {
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            font-size: 3rem;
+            font-weight: 700;
+          }
+          .auto-group-7q4y-H8h-sub-1 {
+          }
+        }
+        .tommorow-fHf {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 5.2rem 0.4rem 0rem;
+          font-size: 3rem;
+          font-weight: 300;
+          line-height: 1.5;
+          color: #ffffff;
+        }
+        .monthly-forecast-Bmo {
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.4rem;
+          font-size: 3rem;
+          font-weight: 300;
+          line-height: 1.5;
+        }
+      }
+    }
+    .auto-group-kklm-JrR {
+      flex-shrink: 0;
+      margin: 0rem 0rem 3rem 1rem;
+      height: 4.8rem;
+      display: flex;
+      align-items: center;
+
+      .c-pZs {
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0.5rem 0.3rem 0rem;
+        font-size: 3rem;
+        font-weight: 300;
+        line-height: 1.5;
+      }
+      .auto-group-eyu1-8aZ {
+        margin: 0.8rem 1.2rem 1rem 0rem;
+        box-sizing: border-box;
+        padding: 0.3rem 0rem 0.2rem 0rem;
+        width: 9.2rem;
+        height: calc(100% - 1.8rem);
+        background: linear-gradient(90deg, #33e017 0%, rgba(148, 241, 133, 0) 100%);
+        border-radius: 2.2rem;
+        flex-shrink: 0;
+
+        .ellipse-5-E7o {
+          width: 2.5rem;
+          height: 2.5rem;
+          background-color: #181515;
+          border-radius: 1.25rem;
+        }
+      }
+      .f-XMo {
+        font-weight: 300;
+        line-height: 1.5;
+        color: #ffffff;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.3rem;
+        font-size: 3rem;
+      }
+    }
+    /* .auto-group-tiah-r9B {
+      border-radius: 2.5rem;
+      flex-shrink: 0;
+      margin: 0rem 36rem 0rem 35.9rem;
+      box-sizing: border-box;
+      width: calc(100% - 71.9rem);
+      background-color: #d9d9d9;
+      padding: 1.1rem 35.9rem 0.9rem 4rem;
+      display: flex;
+      align-items: center;
+
+      .icon-search-xCD {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0.1rem 1.7rem 0rem 0rem;
+        width: 4.5rem;
+        height: 4.5rem;
+      }
+
+      
+      .city-input {
+        flex-shrink: 0;
+        margin-bottom: 0.1rem;
+        font-size: 3rem;
+        font-weight: 300;
+        line-height: 1.5;
+        color: #514d4d;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        border-radius: 8px;
+      }
+    } */
+
+    /* Container for the search input and button */
+.auto-group-tiah-r9B {
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: auto;
+  background-color: #d9d9d9;
+  padding: 1.1rem 35.9rem 0.9rem 2rem;
+  display: flex;
+  align-items: center;
+  position: relative; /* Needed for absolute positioning of suggestions container */
+}
+
+.icon-search-xCD{
+  flex-shrink: 0;
+  height: auto;
+  width: 10%;
+
+}
+
+/* Styling for the city input field */
+.city-input {
+  flex-shrink: 0;
+  margin-bottom: 0.1rem;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #514d4d;
+  font-family: Poppins, 'San-serif';
+  white-space: nowrap;
+  border-radius: 8px;
+  width: 100%; /* Ensure input uses available space */
+}
+.city-input::placeholder {
+  color: #888; /* Light grey color for the placeholder text */
+  font-family: 'Poppins', sans-serif; /* Assuming you're using Poppins elsewhere */
+  
+}
+
+
+/* Styling for the suggestions dropdown */
+.suggestions-container {
+  position: absolute;
+  top: 100%; /* Position below the search input field */
+  left: 0;
+  width: 100%; /* Match the width of the input field */
+  background-color: white; /* White background */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+  border-radius: 8px; /* Rounded corners */
+  overflow: hidden; /* Ensures the border radius applies to children */
+  z-index: 100; /* Ensure dropdown is above other content */
+  max-height: 300px; /* Maximum height before scrolling */
+  overflow-y: auto; /* Enable vertical scroll */
+}
+
+/* Styling for the suggestions list */
+.suggestions-container ul {
+  list-style: none; /* Remove bullet points */
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for each suggestion item */
+.suggestions-container ul li {
+  padding: 10px 20px; /* Padding for touch targets */
+  cursor: pointer; /* Indicates item is clickable */
+  color: black; /* Black text for readability */
+  font-size: 1.2rem;
+
+}
+
+/* Hover state for suggestion items */
+.suggestions-container ul li:hover {
+  background-color: #f2f2f2; /* Light grey background on hover */
+}
+#searchButton {
+  background-color: #867979; /* Primary button color */
+  color:  rgb(224, 215, 215); /* Text color */
+  border: none; /* Remove default border */
+  padding: 10px 20px; /* Vertical and horizontal padding */
+  font-family: 'Poppins', sans-serif; /* Consistent font family */
+  font-size: 1.5rem; /* Text size */
+  font-weight: 500; /* Slightly bolder text */
+  border-radius: 2.5rem; /* Rounded corners to match the input field */
+  cursor: pointer; /* Changes the cursor to a pointer to indicate it's clickable */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+#searchButton:hover {
+  background-color: #0056b3; /* Darker shade on hover for feedback */
+}
+
+#searchButton:focus {
+  outline: none; /* Remove outline to maintain a clean look */
+  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.5); /* Add a subtle focus style */
+}
+
+
+  }
+  .auto-group-ej8u-ajP {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-bottom: 6.3rem;
+
+    .rectangle-6-j6V {
+      margin: 0.4rem 4.3rem 0rem 0rem;
+      width: 23.7rem;
+      height: 42.5rem;
+      background: linear-gradient(180deg, #10c38d -0%, #0e8393 100%);
+      border-radius: 3.2rem;
+      flex-shrink: 0;
+    }
+    .icon-chevron-left-arrow-beV {
+      width: 1.6rem;
+      height: 3.2rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 13.9rem 6.7rem 0rem 0rem;
+    }
+    .auto-group-tnhb-mSV {
+      width: 81.7rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(255, 249, 249, 0.25), 0 0.4rem 0.4rem rgba(252, 245, 245, 0.25);
+      background: linear-gradient(112.67deg, #ad36cb 32.23%, #323233 67.37%);
+      border-radius: 3.2rem;
+      flex-shrink: 0;
+      margin: 0rem 6.1rem 0.4rem 0rem;
+      box-sizing: border-box;
+      padding: 3.5rem 2.8rem 0.8rem 2.8rem;
+
+      .auto-group-hpxy-gZT {
+        margin-bottom: 5.8rem;
+        width: 15.9rem;
+        height: 4.5rem;
+        position: relative;
+
+        .burdwan-Eay {
+          line-height: 1.5;
+          color: #ffffff;
+          width: 13.2rem;
+          left: 0;
+          font-size: 3rem;
+          font-weight: 300;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 4.5rem;
+          position: absolute;
+          top: 0;
+        }
+        .icon-location-xms {
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.1rem;
+          height: 3.1rem;
+          position: absolute;
+          left: 12.8rem;
+          top: 0.6rem;
+        }
+      }
+      .auto-group-67e5-gSy {
+        margin-bottom: 8.4rem;
+        display: flex;
+        align-items: center;
+
+        .aug-23-tue-SBF {
+          color: #ffffff;
+          margin: 9.6rem 12.6rem 0rem 0rem;
+          font-size: 2rem;
+          text-decoration-line: underline;
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-weight: 500;
+          line-height: 1.5;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .icon-temperature-XyP {
+          margin: 0rem 2.527rem 1.556rem 0rem;
+          width: 1.8733rem;
+          height: 6.2442rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .c-SqT {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 2.5rem 2.1rem 0rem;
+          font-size: 7rem;
+          font-weight: 300;
+          line-height: 1.5;
+          color: #f2f1f1;
+        }
+        .group-41-awf {
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 2.4472rem;
+          width: 9.6rem;
+          height: 4.7528rem;
+        }
+      }
+      .auto-group-qnkd-8TP {
+        margin: 0rem 4.7rem 0rem 3rem;
+        width: calc(100% - 7.7rem);
+        height: 6.9rem;
+        display: flex;
+        align-items: flex-start;
+
+        .auto-group-qgoo-opR {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.4rem 9.6rem 0rem 0rem;
+          height: 100%;
+
+          .auto-group-bved-ve9 {
+            margin: 0rem 10.2rem 0.4rem 0rem;
+            width: 9.4rem;
+            height: 6.1rem;
+            position: relative;
+            flex-shrink: 0;
+
+            .humidity-4nH {
+              position: absolute;
+              left: 0;
+              top: 0;
+              font-size: 2rem;
+              font-weight: 500;
+              text-transform: uppercase;
+              width: 9.4rem;
+              height: 3rem;
+              white-space: nowrap;
+              color: #ffffff;
+              font-family: Poppins, 'Source Sans Pro';
+              line-height: 1.5;
+            }
+            .item-99-y8Z {
+              position: absolute;
+              font-size: 2.2rem;
+              font-weight: 500;
+              line-height: 1.5;
+              font-family: Poppins, 'Source Sans Pro';
+              width: 4.6rem;
+              height: 3.3rem;
+              left: 2.5rem;
+              top: 2.8rem;
+              color: #ffffff;
+              white-space: nowrap;
+            }
+          }
+          .auto-group-uspm-38R {
+            height: 100%;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .visiblity-zpM {
+              text-transform: uppercase;
+              flex-shrink: 0;
+              white-space: nowrap;
+              margin-bottom: 0.2rem;
+              font-size: 2rem;
+              font-weight: 500;
+              line-height: 1.5;
+              color: #ffffff;
+              font-family: Poppins, 'Source Sans Pro';
+            }
+            .km-YL5 {
+              font-family: Poppins, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-left: 1.5rem;
+              font-size: 2.2rem;
+              font-weight: 500;
+              line-height: 1.5;
+              color: #ffffff;
+            }
+          }
+        }
+        .auto-group-ezlv-fvV {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-right: 10.6rem;
+          height: 100%;
+          align-items: center;
+
+          .air-pressure-dMX {
+            font-size: 2rem;
+            font-weight: 500;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-bottom: 0.6rem;
+            line-height: 1.5;
+            text-transform: uppercase;
+            white-space: nowrap;
+          }
+          .hpa-Lmj {
+            flex-shrink: 0;
+            margin-left: 1.3rem;
+            font-size: 2.2rem;
+            font-weight: 500;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .auto-group-jlqm-gKo {
+          align-items: flex-end;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+
+          .wind-dkq {
+            font-size: 2rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            flex-shrink: 0;
+            margin: 0rem 0.1rem 0.2rem 0rem;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .mph-9DP {
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2.2rem;
+            font-weight: 500;
+            line-height: 1.5;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+        }
+      }
+    }
+    .icon-chevron-left-arrow-aZb {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 14.9rem 4.3rem 0rem 0rem;
+      width: 1.6rem;
+      height: 3.2rem;
+      object-fit: contain;
+    }
+    .rectangle-7-7C9 {
+      width: 23.7rem;
+      height: 42.5rem;
+      background: linear-gradient(180deg, #0fc89c -0%, #067989 100%);
+      border-radius: 3.2rem;
+      flex-shrink: 0;
+      margin-top: 0.4rem;
+    }
+  }
+  .auto-group-jrht-ceh {
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0 4.1rem;
+    width: calc(100% - 8.2rem);
+    height: 13.2rem;
+    display: flex;
+
+    .auto-group-znwo-9uX {
+      align-items: flex-start;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding-right: 8.5rem;
+      height: 100%;
+      display: flex;
+
+      .auto-group-yerr-ts7 {
+        margin-right: 8.5rem;
+        width: 12.1rem;
+        height: 13.1rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-8-qXT {
+          width: 12.1rem;
+          height: 11.8rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+          border-radius: 2.5rem;
+        }
+        .rectangle-15-8WZ {
+          border-radius: 2.5rem;
+          top: 5.9rem;
+          backdrop-filter: blur(0.45rem);
+          position: absolute;
+          left: 0;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background: linear-gradient(105.4deg, #373232 4.8%, rgba(55, 50, 50, 0) 100%);
+          width: 12.1rem;
+          height: 7.2rem;
+        }
+        .group-17-PSV {
+          position: absolute;
+          left: 3.1rem;
+          top: 4.4rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 5.7794rem;
+          height: 5.0646rem;
+        }
+        .pm-KL9 {
+          position: absolute;
+          left: 2.6rem;
+          top: 1.6rem;
+          line-height: 1.5;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          width: 7.7rem;
+          height: 2.6rem;
+          font-size: 1.7rem;
+          font-weight: 500;
+          white-space: nowrap;
+        }
+        .item-29-Cuj {
+          font-size: 2.1rem;
+          line-height: 1.5;
+          font-family: Poppins, 'Source Sans Pro';
+          width: 3.4rem;
+          position: absolute;
+          top: 9.5rem;
+          font-weight: 300;
+          color: #ffffff;
+          white-space: nowrap;
+          height: 3.2rem;
+          left: 4.3rem;
+        }
+      }
+      .auto-group-kwj9-eFw {
+        margin-right: 8.5rem;
+        width: 12.1rem;
+        height: 13.1rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-9-Zdo {
+          width: 12.1rem;
+          height: 11.8rem;
+          position: absolute;
+          top: 0;
+          border: solid 0.1rem #000000;
+          left: 0;
+          box-sizing: border-box;
+          background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+          border-radius: 2.5rem;
+        }
+        .rectangle-16-sPb {
+          border-radius: 2.5rem;
+          width: 12.1rem;
+          height: 7.2rem;
+          top: 5.9rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          backdrop-filter: blur(0.4rem);
+          position: absolute;
+          left: 0;
+          background: linear-gradient(287.21deg, #373232 97.04%, rgba(55, 50, 50, 0) 200%);
+        }
+        .group-42-A7o {
+          top: 4.7rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 5.5rem;
+          height: 3.179rem;
+          position: absolute;
+          left: 3.1rem;
+        }
+        .pm-6n9 {
+          white-space: nowrap;
+          width: 7.6rem;
+          height: 2.6rem;
+          position: absolute;
+          top: 1.6rem;
+          font-size: 1.7rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          left: 2.4rem;
+          font-weight: 500;
+          line-height: 1.5;
+        }
+        .item-27-Qnq {
+          width: 3.2rem;
+          height: 3.2rem;
+          font-size: 2.1rem;
+          font-weight: 300;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          left: 4.6rem;
+          top: 9.1rem;
+          line-height: 1.5;
+          color: #ffffff;
+        }
+      }
+      .auto-group-xyxr-j4R {
+        margin-right: 8.5rem;
+        width: 12.1rem;
+        height: 13.1rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-10-sRX {
+          height: 11.8rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+          border-radius: 2.5rem;
+          width: 12.1rem;
+        }
+        .rectangle-17-oKB {
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background: linear-gradient(109.5deg, #373232 0%, rgba(55, 50, 50, 0) 100%);
+          width: 12.1rem;
+          height: 7.2rem;
+          top: 5.9rem;
+          border-radius: 2.5rem;
+          position: absolute;
+          left: 0;
+          backdrop-filter: blur(0.4rem);
+        }
+        .group-43-63P {
+          left: 3.3rem;
+          top: 4.3rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 6.4rem;
+          height: 5.9112rem;
+          position: absolute;
+        }
+        .pm-1g9 {
+          white-space: nowrap;
+          width: 7.6rem;
+          left: 2.7rem;
+          font-size: 1.7rem;
+          font-family: Poppins, 'Source Sans Pro';
+          line-height: 1.5;
+          color: #ffffff;
+          height: 2.6rem;
+          position: absolute;
+          top: 1.6rem;
+          font-weight: 500;
+        }
+        .item-27-Kgq {
+          width: 3.2rem;
+          position: absolute;
+          left: 5.1rem;
+          top: 9.5rem;
+          line-height: 1.5;
+          color: #ffffff;
+          height: 3.2rem;
+          font-size: 2.1rem;
+          font-weight: 300;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .auto-group-eupp-DGR {
+        margin-right: 8.5rem;
+        width: 12.1rem;
+        height: 13.1rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-11-YpV {
+          border-radius: 2.5rem;
+          width: 12.1rem;
+          height: 11.8rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+        }
+        .rectangle-18-UTF {
+          border-radius: 2.5rem;
+          width: 12.1rem;
+          left: 0;
+          top: 5.9rem;
+          backdrop-filter: blur(0.4rem);
+          height: 7.2rem;
+          position: absolute;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background: linear-gradient(288.36deg, #373232 95.15%, rgba(55, 50, 50, 0) 203.29%);
+        }
+        .am-xtD {
+          height: 2.6rem;
+          top: 1.6rem;
+          font-weight: 500;
+          line-height: 1.5;
+          color: #ffffff;
+          white-space: nowrap;
+          width: 6.2rem;
+          position: absolute;
+          left: 2.9rem;
+          font-size: 1.7rem;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .item-26-tms {
+          font-weight: 300;
+          line-height: 1.5;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          width: 3.4rem;
+          height: 3.2rem;
+          top: 9.5rem;
+          font-size: 2.1rem;
+          position: absolute;
+          left: 4.1rem;
+          white-space: nowrap;
+        }
+        .group-44-pfX {
+          width: 5.6rem;
+          height: 5.1164rem;
+          position: absolute;
+          left: 3.3rem;
+          top: 4rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .auto-group-sx3f-9xh {
+        width: 12.2rem;
+        height: 13.1rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-right: 8.4rem;
+
+        .rectangle-12-gBw {
+          top: 0;
+          background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+          border-radius: 2.5rem;
+          width: 12.1rem;
+          height: 11.8rem;
+          position: absolute;
+          left: 0;
+        }
+        .rectangle-19-Q7w {
+          background: linear-gradient(104.81deg, #373232 4.65%, rgba(55, 50, 50, 0) 92.7%);
+          border-radius: 2.5rem;
+          left: 0.1rem;
+          height: 7.2rem;
+          position: absolute;
+          top: 5.9rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          backdrop-filter: blur(0.4rem);
+          width: 12.1rem;
+        }
+        .am-Udb {
+          left: 3.3rem;
+          line-height: 1.5;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 2.6rem;
+          position: absolute;
+          font-size: 1.7rem;
+          font-weight: 500;
+          width: 6.6rem;
+          top: 1.6rem;
+        }
+        .item-29-bCR {
+          color: #ffffff;
+          white-space: nowrap;
+          width: 3.4rem;
+          height: 3.2rem;
+          position: absolute;
+          left: 4.1rem;
+          top: 9.4rem;
+          line-height: 1.5;
+          font-size: 2.1rem;
+          font-weight: 300;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .group-45-69B {
+          width: 5.6rem;
+          height: 5.1164rem;
+          position: absolute;
+          left: 3.4rem;
+          top: 4.3rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .auto-group-y2zk-1mw {
+        height: 13.1rem;
+        position: relative;
+        flex-shrink: 0;
+        width: 12.1rem;
+
+        .rectangle-13-APw {
+          background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+          border-radius: 2.5rem;
+          width: 12.1rem;
+          height: 11.8rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+        }
+        .rectangle-20-tqj {
+          backdrop-filter: blur(0.4rem);
+          border-radius: 2.5rem;
+          position: absolute;
+          top: 5.9rem;
+          box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+          background: linear-gradient(286.31deg, #373232 96.07%, rgba(55, 50, 50, 0) 200%);
+          width: 12.1rem;
+          height: 7.2rem;
+          left: 0;
+        }
+        .group-46-P1o {
+          top: 4rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 4.7329rem;
+          height: 3.4rem;
+          position: absolute;
+          left: 3.6rem;
+        }
+        .am-XNu {
+          position: absolute;
+          font-weight: 500;
+          line-height: 1.5;
+          width: 6.7rem;
+          height: 2.6rem;
+          left: 2.4rem;
+          top: 1.6rem;
+          font-size: 1.7rem;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .item-31-rRB {
+          white-space: nowrap;
+          height: 3.2rem;
+          position: absolute;
+          left: 4.6rem;
+          top: 9.1rem;
+          font-weight: 300;
+          line-height: 1.5;
+          color: #ffffff;
+          width: 2.7rem;
+          font-size: 2.1rem;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+      }
+    }
+    .auto-group-2wjp-ARs {
+      flex-shrink: 0;
+      width: 12.2rem;
+      height: 100%;
+      position: relative;
+
+      .rectangle-14-iiH {
+        left: 0;
+        top: 0;
+        background: linear-gradient(180deg, #b32dd4 -0%, rgba(217, 217, 217, 0) 100%);
+        border-radius: 2.5rem;
+        width: 12.1rem;
+        height: 11.8rem;
+        position: absolute;
+      }
+      .rectangle-21-rZb {
+        position: absolute;
+        top: 5.9rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        backdrop-filter: blur(0.4rem);
+        background: linear-gradient(104.48deg, #373232 5.56%, rgba(55, 50, 50, 0) 100%);
+        border-radius: 2.5rem;
+        width: 12.1rem;
+        height: 7.2rem;
+        left: 0.1rem;
+      }
+      .am-k9B {
+        font-weight: 500;
+        line-height: 1.5;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 6.5rem;
+        left: 2.4rem;
+        font-size: 1.7rem;
+        color: #ffffff;
+        height: 2.6rem;
+        position: absolute;
+        top: 1.6rem;
+      }
+      .item-27-sjb {
+        width: 3.2rem;
+        position: absolute;
+        line-height: 1.5;
+        color: #ffffff;
+        height: 3.2rem;
+        left: 5rem;
+        top: 10rem;
+        font-size: 2.1rem;
+        font-weight: 300;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .group-47-NwF {
+        position: absolute;
+        left: 3.5rem;
+        top: 4.4rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 4.2967rem;
+        height: 4.2rem;
+      }
+    }
+  }
+}
